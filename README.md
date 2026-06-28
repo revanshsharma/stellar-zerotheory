@@ -35,7 +35,7 @@ ZeroTheory is a blockchain-powered challenge platform where admins create on-cha
 
 ## Smart Contract
 
-The contract (`ZeroTheory`) manages:
+The  smart contract (CCJX7PIJ7QMUN7QU6JNMFINL3VVIOAF5XKFO5Q7LBFN2WQNPZRIQ3G2V) manages:
 
 - **Challenges** — on-chain records with title, category, stake, creator, players, and winner
 - **Player Stats** — XP, challenges won, challenges joined per address
