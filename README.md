@@ -108,3 +108,8 @@ Open [http://localhost:3000](http://localhost:3000) and connect your Freighter w
 ## Testnet Faucet
 
 To fund a wallet on Stellar testnet, use the [Stellar Lab friendbot](https://laboratory.stellar.org/#account-creator?network=testnet).
+
+
+---
+### Stellar Smart Contract Address
+`CCJX7PIJ7QMUN7QU6JNMFINL3VVIOAF5XKFO5Q7LBFN2WQNPZRIQ3G2V`
